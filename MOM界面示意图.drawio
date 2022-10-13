@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T08:41:09.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="wiG09hgUjf9s9wcUvZNF" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T08:53:28.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="3Js0f758AhfKytOhBLBn" version="20.4.0" type="github">
   <diagram id="1T27g-t3n0TKRR1sPoDJ" name="第 1 页">
     <mxGraphModel dx="2594" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
           <mxGeometry x="-448" y="84" width="74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6tSdoASQQvIuinm9NfsN-27" value="数据看板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-332" y="80" width="74" height="30" as="geometry" />
+          <mxGeometry x="-333" y="80" width="74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6tSdoASQQvIuinm9NfsN-28" value="新建&lt;br&gt;解决方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-449.5" y="149.5" width="77" height="77" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="-330" y="245" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6tSdoASQQvIuinm9NfsN-39" value="编辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="84" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="65" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6tSdoASQQvIuinm9NfsN-40" value="模拟分析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="240" width="60" height="30" as="geometry" />
