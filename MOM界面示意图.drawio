@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T07:44:00.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="SY-uw51DJhnGKU-GiPJ8" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T08:31:11.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="4a8cphTPGbzeR_J-aUPd" version="20.4.0" type="github">
   <diagram id="1T27g-t3n0TKRR1sPoDJ" name="第 1 页">
     <mxGraphModel dx="1863" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="6tSdoASQQvIuinm9NfsN-13" value="储存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-352" y="198" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6tSdoASQQvIuinm9NfsN-14" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+        <mxCell id="6tSdoASQQvIuinm9NfsN-14" value="" style="line;strokeWidth=2;direction=south;html=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="-116" y="118" width="10" height="140" as="geometry" />
         </mxCell>
         <mxCell id="6tSdoASQQvIuinm9NfsN-16" value="组件脚本编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -64,7 +64,7 @@
         <mxCell id="6tSdoASQQvIuinm9NfsN-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=-180;fillColor=#000000;" vertex="1" parent="6tSdoASQQvIuinm9NfsN-21">
           <mxGeometry x="61.523809523809526" y="10" width="4.584126984126985" height="7.01" as="geometry" />
         </mxCell>
-        <mxCell id="6tSdoASQQvIuinm9NfsN-22" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+        <mxCell id="6tSdoASQQvIuinm9NfsN-22" value="" style="line;strokeWidth=2;direction=south;html=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="264" y="118" width="10" height="140" as="geometry" />
         </mxCell>
         <mxCell id="6tSdoASQQvIuinm9NfsN-23" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
@@ -90,6 +90,15 @@
         </mxCell>
         <mxCell id="6tSdoASQQvIuinm9NfsN-37" value="报表统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="143" width="77" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="6tSdoASQQvIuinm9NfsN-38" value="项目管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6tSdoASQQvIuinm9NfsN-39" value="编辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="51" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6tSdoASQQvIuinm9NfsN-40" value="模拟" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
